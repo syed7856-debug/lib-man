@@ -1,2 +1,1 @@
-# lib-man
-project
+# library management project
